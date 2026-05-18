@@ -2,6 +2,8 @@
 
 DIC-SAM is a collaborative image segmentation and grading project built on SAM3 and DINOv3.
 
+![DIC-SAM framework](png/fig1.png)
+
 ## Requirements
 
 - OS: Linux / Ubuntu recommended
