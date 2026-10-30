@@ -1,0 +1,10 @@
+timm
+einops
+iopath
+decord
+pycocotools
+psutil
+ftfy
+regex
+termcolor
+torchmetrics
